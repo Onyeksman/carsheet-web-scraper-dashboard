@@ -23,7 +23,6 @@ Ideal for **data analysts**, **auto researchers**, and **Python automation clien
 ## 🚀 Live Demo  
 
 👉 [View Interactive Dashboard](https://carsheet-web-scraper-dashboard.streamlit.app/)  
-*(Replace the link with your actual Streamlit app URL once deployed.)*
 
 ---
 
@@ -100,4 +99,5 @@ I help clients transform raw online data into actionable insights and interactiv
 
 🔗 [LinkedIn](https://www.linkedin.com/in/onyekachiejimofor)
 
-🌐 Portfolio Dashboard
+🌐 [Portfolio Dashboard](https://github.com/Onyeksman/carsheet-web-scraper-dashboard.git)
+
