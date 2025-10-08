@@ -22,7 +22,7 @@ Ideal for **data analysts**, **auto researchers**, and **Python automation clien
 
 ## 🚀 Live Demo  
 
-👉 [View Interactive Dashboard](https://books-dashboard.streamlit.app/)  
+👉 [View Interactive Dashboard](https://carsheet-web-scraper-dashboard.streamlit.app/)  
 *(Replace the link with your actual Streamlit app URL once deployed.)*
 
 ---
@@ -98,6 +98,6 @@ The dashboard generates instant visual breakdowns of:
 I specialize in Python-based data scraping, browser automation, and interactive dashboards using Streamlit.
 I help clients transform raw online data into actionable insights and interactive tools.
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/onyekachiejimofor)
 
 🌐 Portfolio Dashboard
