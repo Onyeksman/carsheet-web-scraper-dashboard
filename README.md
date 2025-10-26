@@ -97,7 +97,3 @@ The dashboard generates instant visual breakdowns of:
 I specialize in Python-based data scraping, browser automation, and interactive dashboards using Streamlit.
 I help clients transform raw online data into actionable insights and interactive tools.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/onyekachiejimofor)
-
-🌐 [Portfolio Dashboard](https://github.com/Onyeksman/carsheet-web-scraper-dashboard.git)
-
