@@ -90,7 +90,7 @@ The dashboard generates instant visual breakdowns of:
 ---
 ## 👨‍💻 About the Developer
 
-## Onyekachi Ifeanyi
+## Onyekachi Ejimofor
 
 🚀 Web Scraper | Data Automation Expert | Streamlit Developer
 
